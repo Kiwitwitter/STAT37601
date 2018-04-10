@@ -1,0 +1,229 @@
+Abraham_Lincoln_1861.txt|Abraham Lincoln|1861
+Abraham_Lincoln_1862.txt|Abraham Lincoln|1862
+Abraham_Lincoln_1863.txt|Abraham Lincoln|1863
+Abraham_Lincoln_1864.txt|Abraham Lincoln|1864
+Andrew_Jackson_1829.txt|Andrew Jackson|1829
+Andrew_Jackson_1830.txt|Andrew Jackson|1830
+Andrew_Jackson_1831.txt|Andrew Jackson|1831
+Andrew_Jackson_1832.txt|Andrew Jackson|1832
+Andrew_Jackson_1833.txt|Andrew Jackson|1833
+Andrew_Jackson_1834.txt|Andrew Jackson|1834
+Andrew_Jackson_1835.txt|Andrew Jackson|1835
+Andrew_Jackson_1836.txt|Andrew Jackson|1836
+Andrew_Johnson_1865.txt|Andrew Johnson|1865
+Andrew_Johnson_1866.txt|Andrew Johnson|1866
+Andrew_Johnson_1867.txt|Andrew Johnson|1867
+Andrew_Johnson_1868.txt|Andrew Johnson|1868
+Barack_Obama_2009.txt|Barack Obama|2009
+Barack_Obama_2010.txt|Barack Obama|2010
+Barack_Obama_2011.txt|Barack Obama|2011
+Barack_Obama_2012.txt|Barack Obama|2012
+Barack_Obama_2013.txt|Barack Obama|2013
+Barack_Obama_2014.txt|Barack Obama|2014
+Barack_Obama_2015.txt|Barack Obama|2015
+Barack_Obama_2016.txt|Barack Obama|2016
+Benjamin_Harrison_1889.txt|Benjamin Harrison|1889
+Benjamin_Harrison_1890.txt|Benjamin Harrison|1890
+Benjamin_Harrison_1891.txt|Benjamin Harrison|1891
+Benjamin_Harrison_1892.txt|Benjamin Harrison|1892
+Calvin_Coolidge_1923.txt|Calvin Coolidge|1923
+Calvin_Coolidge_1924.txt|Calvin Coolidge|1924
+Calvin_Coolidge_1925.txt|Calvin Coolidge|1925
+Calvin_Coolidge_1926.txt|Calvin Coolidge|1926
+Calvin_Coolidge_1927.txt|Calvin Coolidge|1927
+Calvin_Coolidge_1928.txt|Calvin Coolidge|1928
+Chester_A._Arthur_1881.txt|Chester A. Arthur|1881
+Chester_A._Arthur_1882.txt|Chester A. Arthur|1882
+Chester_A._Arthur_1883.txt|Chester A. Arthur|1883
+Chester_A._Arthur_1884.txt|Chester A. Arthur|1884
+Dwight_D._Eisenhower_1953.txt|Dwight D. Eisenhower|1953
+Dwight_D._Eisenhower_1954.txt|Dwight D. Eisenhower|1954
+Dwight_D._Eisenhower_1955.txt|Dwight D. Eisenhower|1955
+Dwight_D._Eisenhower_1956.txt|Dwight D. Eisenhower|1956
+Dwight_D._Eisenhower_1957.txt|Dwight D. Eisenhower|1957
+Dwight_D._Eisenhower_1958.txt|Dwight D. Eisenhower|1958
+Dwight_D._Eisenhower_1959.txt|Dwight D. Eisenhower|1959
+Dwight_D._Eisenhower_1960.txt|Dwight D. Eisenhower|1960
+Dwight_D._Eisenhower_1961.txt|Dwight D. Eisenhower|1961
+Franklin_D._Roosevelt_1934.txt|Franklin D. Roosevelt|1934
+Franklin_D._Roosevelt_1935.txt|Franklin D. Roosevelt|1935
+Franklin_D._Roosevelt_1936.txt|Franklin D. Roosevelt|1936
+Franklin_D._Roosevelt_1937.txt|Franklin D. Roosevelt|1937
+Franklin_D._Roosevelt_1938.txt|Franklin D. Roosevelt|1938
+Franklin_D._Roosevelt_1939.txt|Franklin D. Roosevelt|1939
+Franklin_D._Roosevelt_1940.txt|Franklin D. Roosevelt|1940
+Franklin_D._Roosevelt_1941.txt|Franklin D. Roosevelt|1941
+Franklin_D._Roosevelt_1942.txt|Franklin D. Roosevelt|1942
+Franklin_D._Roosevelt_1943.txt|Franklin D. Roosevelt|1943
+Franklin_D._Roosevelt_1944.txt|Franklin D. Roosevelt|1944
+Franklin_D._Roosevelt_1945.txt|Franklin D. Roosevelt|1945
+Franklin_Pierce_1853.txt|Franklin Pierce|1853
+Franklin_Pierce_1854.txt|Franklin Pierce|1854
+Franklin_Pierce_1855.txt|Franklin Pierce|1855
+Franklin_Pierce_1856.txt|Franklin Pierce|1856
+George_Bush_1989.txt|George Bush|1989
+George_Bush_1990.txt|George Bush|1990
+George_Bush_1991.txt|George Bush|1991
+George_Bush_1992.txt|George Bush|1992
+George_Washington_1790.txt|George Washington|1790
+George_Washington_1791.txt|George Washington|1791
+George_Washington_1792.txt|George Washington|1792
+George_Washington_1793.txt|George Washington|1793
+George_Washington_1794.txt|George Washington|1794
+George_Washington_1795.txt|George Washington|1795
+George_Washington_1796.txt|George Washington|1796
+George_W._Bush_2001.txt|George W. Bush|2001
+George_W._Bush_2002.txt|George W. Bush|2002
+George_W._Bush_2003.txt|George W. Bush|2003
+George_W._Bush_2004.txt|George W. Bush|2004
+George_W._Bush_2005.txt|George W. Bush|2005
+George_W._Bush_2006.txt|George W. Bush|2006
+George_W._Bush_2007.txt|George W. Bush|2007
+George_W._Bush_2008.txt|George W. Bush|2008
+Gerald_R._Ford_1975.txt|Gerald R. Ford|1975
+Gerald_R._Ford_1976.txt|Gerald R. Ford|1976
+Gerald_R._Ford_1977.txt|Gerald R. Ford|1977
+Grover_Cleveland_1885.txt|Grover Cleveland|1885
+Grover_Cleveland_1886.txt|Grover Cleveland|1886
+Grover_Cleveland_1887.txt|Grover Cleveland|1887
+Grover_Cleveland_1888.txt|Grover Cleveland|1888
+Grover_Cleveland_1893.txt|Grover Cleveland|1893
+Grover_Cleveland_1894.txt|Grover Cleveland|1894
+Grover_Cleveland_1895.txt|Grover Cleveland|1895
+Grover_Cleveland_1896.txt|Grover Cleveland|1896
+Harry_S_Truman_1946.txt|Harry S Truman|1946
+Harry_S_Truman_1947.txt|Harry S Truman|1947
+Harry_S_Truman_1948.txt|Harry S Truman|1948
+Harry_S_Truman_1949.txt|Harry S Truman|1949
+Harry_S_Truman_1950.txt|Harry S Truman|1950
+Harry_S_Truman_1951.txt|Harry S Truman|1951
+Harry_S_Truman_1952.txt|Harry S Truman|1952
+Harry_S_Truman_1953.txt|Harry S Truman|1953
+Herbert_Hoover_1929.txt|Herbert Hoover|1929
+Herbert_Hoover_1930.txt|Herbert Hoover|1930
+Herbert_Hoover_1931.txt|Herbert Hoover|1931
+Herbert_Hoover_1932.txt|Herbert Hoover|1932
+James_Buchanan_1857.txt|James Buchanan|1857
+James_Buchanan_1858.txt|James Buchanan|1858
+James_Buchanan_1859.txt|James Buchanan|1859
+James_Buchanan_1860.txt|James Buchanan|1860
+James_K._Polk_1845.txt|James K. Polk|1845
+James_K._Polk_1846.txt|James K. Polk|1846
+James_K._Polk_1847.txt|James K. Polk|1847
+James_K._Polk_1848.txt|James K. Polk|1848
+James_Madison_1809.txt|James Madison|1809
+James_Madison_1810.txt|James Madison|1810
+James_Madison_1811.txt|James Madison|1811
+James_Madison_1812.txt|James Madison|1812
+James_Madison_1813.txt|James Madison|1813
+James_Madison_1814.txt|James Madison|1814
+James_Madison_1815.txt|James Madison|1815
+James_Madison_1816.txt|James Madison|1816
+James_Monroe_1817.txt|James Monroe|1817
+James_Monroe_1818.txt|James Monroe|1818
+James_Monroe_1819.txt|James Monroe|1819
+James_Monroe_1820.txt|James Monroe|1820
+James_Monroe_1821.txt|James Monroe|1821
+James_Monroe_1822.txt|James Monroe|1822
+James_Monroe_1823.txt|James Monroe|1823
+James_Monroe_1824.txt|James Monroe|1824
+Jimmy_Carter_1978.txt|Jimmy Carter|1978
+Jimmy_Carter_1979.txt|Jimmy Carter|1979
+Jimmy_Carter_1980.txt|Jimmy Carter|1980
+Jimmy_Carter_1981.txt|Jimmy Carter|1981
+John_Adams_1797.txt|John Adams|1797
+John_Adams_1798.txt|John Adams|1798
+John_Adams_1799.txt|John Adams|1799
+John_Adams_1800.txt|John Adams|1800
+John_F._Kennedy_1961.txt|John F. Kennedy|1961
+John_F._Kennedy_1962.txt|John F. Kennedy|1962
+John_F._Kennedy_1963.txt|John F. Kennedy|1963
+John_Quincy_Adams_1825.txt|John Quincy Adams|1825
+John_Quincy_Adams_1826.txt|John Quincy Adams|1826
+John_Quincy_Adams_1827.txt|John Quincy Adams|1827
+John_Quincy_Adams_1828.txt|John Quincy Adams|1828
+John_Tyler_1841.txt|John Tyler|1841
+John_Tyler_1842.txt|John Tyler|1842
+John_Tyler_1843.txt|John Tyler|1843
+John_Tyler_1844.txt|John Tyler|1844
+Lyndon_B._Johnson_1964.txt|Lyndon B. Johnson|1964
+Lyndon_B._Johnson_1965.txt|Lyndon B. Johnson|1965
+Lyndon_B._Johnson_1966.txt|Lyndon B. Johnson|1966
+Lyndon_B._Johnson_1967.txt|Lyndon B. Johnson|1967
+Lyndon_B._Johnson_1968.txt|Lyndon B. Johnson|1968
+Lyndon_B._Johnson_1969.txt|Lyndon B. Johnson|1969
+Martin_Van_Buren_1837.txt|Martin Van Buren|1837
+Martin_Van_Buren_1838.txt|Martin Van Buren|1838
+Martin_Van_Buren_1839.txt|Martin Van Buren|1839
+Martin_Van_Buren_1840.txt|Martin Van Buren|1840
+Millard_Fillmore_1850.txt|Millard Fillmore|1850
+Millard_Fillmore_1851.txt|Millard Fillmore|1851
+Millard_Fillmore_1852.txt|Millard Fillmore|1852
+Richard_M._Nixon_1970.txt|Richard M. Nixon|1970
+Richard_M._Nixon_1971.txt|Richard M. Nixon|1971
+Richard_M._Nixon_1972.txt|Richard M. Nixon|1972
+Richard_M._Nixon_1973.txt|Richard M. Nixon|1973
+Richard_M._Nixon_1974.txt|Richard M. Nixon|1974
+Ronald_Reagan_1981.txt|Ronald Reagan|1981
+Ronald_Reagan_1982.txt|Ronald Reagan|1982
+Ronald_Reagan_1983.txt|Ronald Reagan|1983
+Ronald_Reagan_1984.txt|Ronald Reagan|1984
+Ronald_Reagan_1985.txt|Ronald Reagan|1985
+Ronald_Reagan_1986.txt|Ronald Reagan|1986
+Ronald_Reagan_1987.txt|Ronald Reagan|1987
+Ronald_Reagan_1988.txt|Ronald Reagan|1988
+Rutherford_B._Hayes_1877.txt|Rutherford B. Hayes|1877
+Rutherford_B._Hayes_1878.txt|Rutherford B. Hayes|1878
+Rutherford_B._Hayes_1879.txt|Rutherford B. Hayes|1879
+Rutherford_B._Hayes_1880.txt|Rutherford B. Hayes|1880
+Theodore_Roosevelt_1901.txt|Theodore Roosevelt|1901
+Theodore_Roosevelt_1902.txt|Theodore Roosevelt|1902
+Theodore_Roosevelt_1903.txt|Theodore Roosevelt|1903
+Theodore_Roosevelt_1904.txt|Theodore Roosevelt|1904
+Theodore_Roosevelt_1905.txt|Theodore Roosevelt|1905
+Theodore_Roosevelt_1906.txt|Theodore Roosevelt|1906
+Theodore_Roosevelt_1907.txt|Theodore Roosevelt|1907
+Theodore_Roosevelt_1908.txt|Theodore Roosevelt|1908
+Thomas_Jefferson_1801.txt|Thomas Jefferson|1801
+Thomas_Jefferson_1802.txt|Thomas Jefferson|1802
+Thomas_Jefferson_1803.txt|Thomas Jefferson|1803
+Thomas_Jefferson_1804.txt|Thomas Jefferson|1804
+Thomas_Jefferson_1805.txt|Thomas Jefferson|1805
+Thomas_Jefferson_1806.txt|Thomas Jefferson|1806
+Thomas_Jefferson_1807.txt|Thomas Jefferson|1807
+Thomas_Jefferson_1808.txt|Thomas Jefferson|1808
+Ulysses_S._Grant_1869.txt|Ulysses S. Grant|1869
+Ulysses_S._Grant_1870.txt|Ulysses S. Grant|1870
+Ulysses_S._Grant_1871.txt|Ulysses S. Grant|1871
+Ulysses_S._Grant_1872.txt|Ulysses S. Grant|1872
+Ulysses_S._Grant_1873.txt|Ulysses S. Grant|1873
+Ulysses_S._Grant_1874.txt|Ulysses S. Grant|1874
+Ulysses_S._Grant_1875.txt|Ulysses S. Grant|1875
+Ulysses_S._Grant_1876.txt|Ulysses S. Grant|1876
+Warren_G._Harding_1921.txt|Warren G. Harding|1921
+Warren_G._Harding_1922.txt|Warren G. Harding|1922
+William_Howard_Taft_1909.txt|William Howard Taft|1909
+William_Howard_Taft_1910.txt|William Howard Taft|1910
+William_Howard_Taft_1911.txt|William Howard Taft|1911
+William_Howard_Taft_1912.txt|William Howard Taft|1912
+William_J._Clinton_1993.txt|William J. Clinton|1993
+William_J._Clinton_1994.txt|William J. Clinton|1994
+William_J._Clinton_1995.txt|William J. Clinton|1995
+William_J._Clinton_1996.txt|William J. Clinton|1996
+William_J._Clinton_1997.txt|William J. Clinton|1997
+William_J._Clinton_1998.txt|William J. Clinton|1998
+William_J._Clinton_1999.txt|William J. Clinton|1999
+William_J._Clinton_2000.txt|William J. Clinton|2000
+William_McKinley_1897.txt|William McKinley|1897
+William_McKinley_1898.txt|William McKinley|1898
+William_McKinley_1899.txt|William McKinley|1899
+William_McKinley_1900.txt|William McKinley|1900
+Woodrow_Wilson_1913.txt|Woodrow Wilson|1913
+Woodrow_Wilson_1914.txt|Woodrow Wilson|1914
+Woodrow_Wilson_1915.txt|Woodrow Wilson|1915
+Woodrow_Wilson_1916.txt|Woodrow Wilson|1916
+Woodrow_Wilson_1917.txt|Woodrow Wilson|1917
+Woodrow_Wilson_1918.txt|Woodrow Wilson|1918
+Woodrow_Wilson_1919.txt|Woodrow Wilson|1919
+Woodrow_Wilson_1920.txt|Woodrow Wilson|1920
+Zachary_Taylor_1849.txt|Zachary Taylor|1849
